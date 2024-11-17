@@ -5,6 +5,6 @@ The analytical report is in Google Docs, access via the link (you can leave comm
 
 I also attached a report in PDF format: **"Aleksandra Podborodnikova_JetBrains.pdf"**
 
-The main data processing was done in the Jupiter laptop **"Jetbrains.ipynb"**. At the beginning there is a table of contents based on which you can navigate through the questions of the test task.
+The main data processing was done in the Jupiter notebook **"Jetbrains.ipynb"**. At the beginning there is a table of contents based on which you can navigate through the questions of the test task.
 
 I also attach **'build_model.py'** that contains one function for training the model, I took it out separately, since it was necessary to reuse a large amount of code.
